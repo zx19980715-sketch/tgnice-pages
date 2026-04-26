@@ -1,0 +1,11 @@
+dist/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.venv/
+*.session
+*.session-journal
+monitor.db
+reload_listeners.flag
+disconnect_confirmed.flag
