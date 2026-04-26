@@ -80,6 +80,7 @@ def render_homepage(resources: list, articles: list, footer_links: dict,
   <title>{site_name} - 发现实用的 Telegram 工具与资源</title>
   <meta name="description" content="{site_desc}">
   <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="GhbpcdX0oAktg3z_tgn4-zP7m-cY2dUjOIfheK8xSHw">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="{site_name} - 发现实用的 Telegram 工具与资源">
@@ -593,6 +594,7 @@ def render_about(about_content: dict, footer_links: dict,
   <title>关于 - {site_name}</title>
   <meta name="description" content="了解 {site_name}，专注于 Telegram 生态的实用工具与资源导航平台。">
   <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="GhbpcdX0oAktg3z_tgn4-zP7m-cY2dUjOIfheK8xSHw">
   <link rel="stylesheet" href="/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -723,6 +725,7 @@ def render_guide(resources: list, footer_links: dict,
   <title>使用指南 - {site_name}</title>
   <meta name="description" content="{site_name} 使用指南，了解如何开始使用 TG群监控、接码服务、账号资源等工具。">
   <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="GhbpcdX0oAktg3z_tgn4-zP7m-cY2dUjOIfheK8xSHw">
   <link rel="stylesheet" href="/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -815,6 +818,7 @@ def render_faq(footer_links: dict,
   <title>常见问题 - {site_name}</title>
   <meta name="description" content="{site_name} 常见问题解答，关于 TG群监控、接码服务、账号资源的常见问题。">
   <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="GhbpcdX0oAktg3z_tgn4-zP7m-cY2dUjOIfheK8xSHw">
   <link rel="stylesheet" href="/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -911,6 +915,7 @@ def render_article(article: dict, all_articles: list, footer_links: dict,
   <title>{page_title}</title>
   <meta name="description" content="{page_desc}">
   <meta name="robots" content="index, follow, max-snippet:-1">
+  <meta name="google-site-verification" content="GhbpcdX0oAktg3z_tgn4-zP7m-cY2dUjOIfheK8xSHw">
 
   <meta property="og:type" content="article">
   <meta property="og:title" content="{page_title}">

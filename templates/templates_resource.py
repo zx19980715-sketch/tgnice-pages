@@ -127,6 +127,7 @@ def render_resource(resource, all_resources, footer_links,
   <title>{page_title}</title>
   <meta name="description" content="{page_desc}">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <meta name="google-site-verification" content="GhbpcdX0oAktg3z_tgn4-zP7m-cY2dUjOIfheK8xSHw">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="{page_title}">
